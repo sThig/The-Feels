@@ -1,4 +1,6 @@
-
+.loadingoverlay {
+  z-index: 3;
+}
 
 .jumbotron {
     position: relative;
